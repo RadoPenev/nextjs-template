@@ -23,7 +23,7 @@ a {
 }
 
 .navigation {
-  background-color: #000;
+  background-color: #925e5e;
   color: #ffffff;
   padding: 10px;
   display: flex;
@@ -58,7 +58,7 @@ footer {
 }
 
 .cover {
-  background-image: url('/intro-background.jpg');
+  background-image: url('/first.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -68,8 +68,8 @@ footer {
 }
 
 .title {
-  color: #fd0202;
-  font-size: 90px;
+  color: #010101;
+  font-size: 100px;
 }
 
 .section-title {
